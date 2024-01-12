@@ -60,5 +60,5 @@ def client():
 
 
 
-#server()
+server()
 client()
